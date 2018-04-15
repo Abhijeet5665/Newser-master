@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="temp">Temp string</string>
+    <string name="no_connection">No internet connection!</string>
+    <string name="api_error">An error occurred while retrieving the data from Newsapi.org</string>
+    <string name="read_more">Read more</string>
+
+    <string name="home">Home</string>
+    <string name="sources">Sources:</string>
+    <string name="general">General</string>
+    <string name="tech">Tech</string>
+    <string name="gaming">Gaming</string>
+    <string name="the_verge">The Verge</string>
+    <string name="polygon">Polygon</string>
+    <string name="rtl_nieuws">RTL Nieuws</string>
+</resources>
